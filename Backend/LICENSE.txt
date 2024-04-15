@@ -1,0 +1,31 @@
+TAXOGG API Copyright Notice
+Copyright (C) 2024 Manuel Martín Santamaría (alias manuelmsni)
+
+All rights reserved.
+
+1. Introduction
+This document establishes the copyright policy for the TAXOGG Backend repository, located at https://github.com/TAXO-GG/Backend. The TAXOGG REST API (hereinafter the "API") is a proprietary software interface designed to provide access to data and functionalities for the TAXOGG application, facilitating seamless integration and interaction with TAXOGG's core services. As a crucial component of the TAXOGG ecosystem, the API enables authorized developers and applications to utilize specific data sets and services, under the strict guidelines and restrictions set forth in this document.
+
+2. Copyright Information
+The API, including but not limited to its design, documentation, code, and associated materials, is the exclusive property of Manuel Martín Santamaría and is protected under copyright laws and international treaties, as well as other intellectual property laws and treaties.
+
+3. Restrictions
+The API is proprietary software. Use, copying, modification, distribution, or disclosure of the API or any part thereof, including, but not limited to, technical information, documentation, or code, are strictly prohibited except as expressly permitted by a written and signed agreement with Manuel Martín Santamaría. Without limiting the foregoing, the following are expressly prohibited unless expressly authorized in writing by Manuel Martín Santamaría:
+
+The use, copying, modification, or distribution of the API or its parts for any purpose.
+The reverse engineering, disassembly, or decompilation of the API to obtain source code.
+The removal of any copyright or proprietary notices on the API or accompanying materials.
+
+4. Trademarks
+TAXOGG is a trademark of Manuel Martín Santamaría. This policy does not grant any license or right to use the TAXOGG trademark or any other trademarks, service marks, logos, or domain names associated with the API.
+
+5. Warranty Disclaimer
+The API is provided "as is", without warranty of any kind, express or implied. Manuel Martín Santamaría expressly disclaims all warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+6. Limitation of Liability
+Manuel Martín Santamaría shall not be liable for any direct, indirect, special, incidental, consequential, or punitive damages, including but not limited to loss of use, loss of profits, or loss of data, whether in an action in contract, tort (including but not limited to negligence), or otherwise arising out of or in any way connected with the use of or inability to use the API or the materials contained in or accessed through the API.
+
+7. Contact Information
+For authorization requests or any inquiries related to this copyright policy, please contact:
+
+manuelmsni@hotmail.com

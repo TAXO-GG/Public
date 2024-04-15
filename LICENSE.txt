@@ -1,0 +1,31 @@
+TAXOGG PUBLIC DOCUMENT REPOSITORY COPYRIGHT NOTICE
+Copyright (C) 2024 Manuel Martín Santamaría (alias manuelmsni)
+
+All rights reserved.
+
+1. Introduction
+This document establishes the copyright policy for the TAXOGG Public Document and Image Repository, accessible at https://github.com/TAXO-GG/Public. This repository contains various documents and images, including product licenses, user guides, style guidelines, and other related materials, intended for public use and to assist users in understanding and using TAXOGG products and services.
+
+2. Copyright Information
+All materials contained within the repository, including but not limited to texts, graphics, logos, images, and other visual and written materials, are the exclusive property of Manuel Martín Santamaría (alias manuelmsni) and are protected under copyright laws and international treaties, as well as other intellectual property laws and treaties.
+
+3. Usage Rights
+Users are granted a non-exclusive, non-transferable, limited right to access, use, and display the documents and images within the repository for personal, non-commercial informational purposes only.
+Any copies made of the documents or images must retain all copyright and proprietary notices contained on the original or any copies of the materials.
+Modification, distribution, transmission, performance, broadcast, publication, uploading, licensing, reverse engineering, transfer or sale of, or the creation of derivative works from any material, information, software, products, or services obtained from the repository is explicitly prohibited without prior written permission from Manuel Martín Santamaría.
+
+4. Trademarks
+The name TAXOGG and all related logos, product and service names, designs, and slogans are trademarks of Manuel Martín Santamaría or its affiliates or licensors. You are not granted any license or right to use any of these trademarks.
+
+5. Disclaimer of Warranty
+The documents and images in the repository are provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+6. Limitation of Liability
+In no event will Manuel Martín Santamaría be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of the use of or inability to use the documents or images in the repository, even if advised of the possibility of such damages.
+
+7. Changes and Amendments
+Manuel Martín Santamaría reserves the right to amend or replace the documents and images contained within the repository without prior notice, but will endeavor to provide timely notice of any such changes.
+
+8. Contact Information
+For permissions, further information, or inquiries regarding this copyright policy, please contact:
+manuelmsni@hotmail.com
